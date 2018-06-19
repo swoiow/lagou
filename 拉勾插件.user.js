@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name                 拉勾插件
 // @namespace       http://localhost
-// @version              0.3
+// @version              0.3.1
 // @description        增强显示
 // @description        TODO: 屏蔽公司
 // @document          https://tampermonkey.net/documentation.php
 // @match                http*://www.lagou.com/zhaopin/*
 // @match                http*://www.lagou.com/jobs/list_*
-// @match                http*://www.lagou.com/jobs/*.html*
+// @match                https://www.lagou.com/jobs/mList.html
 // @match                http*://www.lagou.com/*-zhaopin/*
 // @run-at                document-end
 // @grant                  unsafeWindow
